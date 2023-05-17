@@ -1,4 +1,4 @@
-Meme App
+#MemeApp
 The Meme App is a simple Android application that allows users to view and share memes fetched from an open-source API. It provides a seamless experience for users to browse through memes, fetch new ones with a button click, and easily share them with others.
 
 Features
